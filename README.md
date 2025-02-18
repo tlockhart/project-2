@@ -127,7 +127,7 @@ job titles are trending from the dates 2020-2024.</p>
 - Data Preparation: The cleaned, encoded and dimensionally-reduced dataset is effectively used to identify meaningful patterns through clustering.
 
 **Low classification accuracy and R Score**
-- The complexity and high variability of the data contributed to the lower scores.
+- Extremely high variability of salaries within a given job title and experience contributed to the lower scores of the model. The large ranges in salaries caused difficulty in model's ability to predict a salary
 - Even though extreme outliers were removed, there may be smaller outliers that can affect the performance.
 - There was also class imbalance and even using the oversampling, undersampling techniques the model would still not achieve the desired accuracy.
 - An r2 score of 0.5211 suggests that the model explains about 52% of the variance in the salary data. The moderate level might be due to missing factors.
