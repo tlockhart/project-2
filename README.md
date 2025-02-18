@@ -45,7 +45,7 @@ job titles are trending from the dates 2020-2024.</p>
 - Create a histogram for numerical columns to determine data distribution.
 - Use the 'salary_in_usd' column to show a normal distribution for a linear regression model.
 - Create 4 bins based on salary distribution
-- Adjust bins for more balanced employee count.
+- Adjust bins for more balanced employee count but it did not improve the accuracy of the model.
 - Store non-collinear features (job_title, experience_level, employment_type, work_models, employee_residence, company_location, company_size) in X
 - Store salary categories in y.
 - Split data into 75% training and 25% testing sets.
