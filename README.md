@@ -6,6 +6,7 @@ completion. Showing the different job titles, experience levels and what possibl
 job titles are trending from the dates 2020-2024.</p>
 
 <p style="font-size:18px;">We also will be looking at various multi-class classification models and determining which is the most accurate model.
+All model codes were consolidated into a single Jupyter notebook due to the numerous models used.
 
 
 ## Table of Contents
@@ -17,7 +18,6 @@ job titles are trending from the dates 2020-2024.</p>
   <li><a href="#Optimization">Optimization</a></li>
   <li><a href="#Results">Results</a></li>
   <li><a href="#Conclusion">Conclusion</a></li>
-
   <li><a href="#Future-Work">Future Work</a></li>
   <li><a href="#Reference">Reference</a></li>
   <li><a href="#Acknowledgements">Acknowledgements</a></li>
@@ -159,7 +159,7 @@ Consider alternative resampling techniques, feature engineering and model tuning
 <h1 style="color:#89CFF0; font-size:36px; text-align:center;">The Fantastic Four</h1>
 
 <ul style="font-size:20px;">
-  <li><strong>Daniel Liu</strong></li>
-  <li><strong>Ryan Brown</strong></li>
-  <li><strong>Tony Lockhart</strong></li>
-  <li><strong>Cathy Schassberger</strong></li>
+  <li><strong>Daniel Liu, Unsupervised Machine Learning</strong></li>
+  <li><strong>Ryan Brown, Linear Regression</strong></li>
+  <li><strong>Tony Lockhart, Classification</strong></li>
+  <li><strong>Cathy Schassberger, Readme, Presentation</strong></li>
