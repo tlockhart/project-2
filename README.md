@@ -1,4 +1,4 @@
-# Technology Sector Salary Analysis
+# Data Science Salaries
 
 ## Introduction
 <p style="font-size:18px;">To give the students in this consortium an idea of what is possible for career possibilities after
@@ -84,6 +84,7 @@ job titles are trending from the dates 2020-2024.</p>
 - Use the r2Score and the Mean Squared Error (MSE) to test the models Performance and Accuracy.
 
 **Unsupervised Learning**
+- PCA Analysis: Reduce dimensionality by trading accuracy for simiplicity.
 - KMeans: Use the Elbow method to determine the optimal number of clusters by plotting inertia values for different values of k.
 - Agglomerative Clustering: Number of clusters is set to 3.
 - Birch: Number of clusters is set to 3.
@@ -120,10 +121,9 @@ job titles are trending from the dates 2020-2024.</p>
 - The Ridge Regression model effectively predicts salary values based on job related inputs
 
 **Unsupervised Learning**
-- Optimal Clusters: The Elbow method suggest the optimal number of clusters for KMeans.
+- Optimal Clusters: The Elbow method suggest 3 as the optimal number of clusters for PCA-optimized data.
 - Cluster Patterns: Visualizations reveal distinct clusters for job titles and standardized salary data.
 - Model Comparison: Different Clustering algorithms (KMeans, Agglomerative, Birch) provide varying insights into the data structure.
-- PCA Analysis: PCA helps in reducing the dimensionality of the data while retaining significant information.
 - Data Preparation: The cleaned, encoded and dimensionally-reduced dataset is effectively used to identify meaningful patterns through clustering.
 
 **Low classification accuracy and R Score**
