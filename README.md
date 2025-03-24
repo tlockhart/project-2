@@ -12,7 +12,7 @@ All model codes were consolidated into a single Jupyter notebook due to the nume
 ## Table of Contents
 <ol style="font-size:18px; font-style:italic;">
   <li><a href="#Introduction">Introduction</a></li>
-  <li><a href="#Prerequesistes">Prerequesistes</a></li>
+  <li><a href="#Prerequesistes">Prerequisites</a></li>
   <li><a href="#Data">Data</a></li>
   <li><a href="#Methodology">Methodology</a></li>
   <li><a href="#Optimization">Optimization</a></li>
